@@ -1,0 +1,1274 @@
+[
+  {
+    "room": "804",
+    "mac_address": "00:0B:82:F2:34:50",
+    "ip_address": "172.27.6.24",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "809",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "807",
+    "mac_address": "00:0B:82:F2:34:60",
+    "ip_address": "172.27.6.26",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "813",
+    "mac_address": "00:0B:82:F2:35:3E",
+    "ip_address": "172.27.5.242",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "811",
+    "mac_address": "00:0B:82:F2:35:40",
+    "ip_address": "172.27.5.243",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "812",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1003",
+    "mac_address": "00:0B:82:F2:36:C8",
+    "ip_address": "172.27.5.235",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1002",
+    "mac_address": "00:0B:82:F2:36:D6",
+    "ip_address": "172.27.5.229",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1006",
+    "mac_address": "00:0B:82:F2:36:DC",
+    "ip_address": "172.27.5.240",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2605",
+    "mac_address": "C0:74:AD:16:A0:9E",
+    "ip_address": "172.27.5.109",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2212",
+    "mac_address": "C0:74:AD:16:A0:A0",
+    "ip_address": "172.27.5.202",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2214",
+    "mac_address": "C0:74:AD:16:A0:A4",
+    "ip_address": "172.27.5.183",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "510",
+    "mac_address": "C0:74:AD:16:A0:A8",
+    "ip_address": "172.27.6.95",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "507",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "508",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "612",
+    "mac_address": "C0:74:AD:16:A0:B0",
+    "ip_address": "172.27.6.42",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2615",
+    "mac_address": "C0:74:AD:16:A0:B2",
+    "ip_address": "172.27.5.104",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "511",
+    "mac_address": "C0:74:AD:16:A0:B8",
+    "ip_address": "172.27.6.112",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2614",
+    "mac_address": "C0:74:AD:16:A0:BC",
+    "ip_address": "172.27.5.97",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "509",
+    "mac_address": "C0:74:AD:16:A0:C2",
+    "ip_address": "172.27.6.96",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2207",
+    "mac_address": "C0:74:AD:16:A0:C4",
+    "ip_address": "172.27.5.149",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2205",
+    "mac_address": "C0:74:AD:16:A0:C6",
+    "ip_address": "172.27.5.153",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2209",
+    "mac_address": "C0:74:AD:16:A0:CA",
+    "ip_address": "172.27.5.159",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "512",
+    "mac_address": "C0:74:AD:16:A0:CC",
+    "ip_address": "172.27.6.84",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "604",
+    "mac_address": "C0:74:AD:16:A0:D0",
+    "ip_address": "172.27.6.82",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "602",
+    "mac_address": "C0:74:AD:16:A0:D8",
+    "ip_address": "172.27.6.85",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2310",
+    "mac_address": "C0:74:AD:16:A0:DA",
+    "ip_address": "172.27.5.6",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2303",
+    "mac_address": "C0:74:AD:16:A0:DE",
+    "ip_address": "172.27.5.188",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2104",
+    "mac_address": "C0:74:AD:16:A0:E0",
+    "ip_address": "172.27.5.190",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "603",
+    "mac_address": "C0:74:AD:16:A0:E2",
+    "ip_address": "172.27.6.83",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2308",
+    "mac_address": "C0:74:AD:16:A0:EA",
+    "ip_address": "172.27.5.2",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "605",
+    "mac_address": "C0:74:AD:16:A0:EC",
+    "ip_address": "172.27.6.80",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2313",
+    "mac_address": "C0:74:AD:16:A0:F4",
+    "ip_address": "172.27.5.10",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2103",
+    "mac_address": "C0:74:AD:16:A0:F6",
+    "ip_address": "172.27.5.180",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2102",
+    "mac_address": "C0:74:AD:16:A0:FA",
+    "ip_address": "172.27.5.177",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2105",
+    "mac_address": "C0:74:AD:16:A0:FE",
+    "ip_address": "172.27.5.173",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2107",
+    "mac_address": "C0:74:AD:16:A1:04",
+    "ip_address": "172.27.5.179",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2315",
+    "mac_address": "C0:74:AD:16:A1:06",
+    "ip_address": "172.27.5.57",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2307",
+    "mac_address": "C0:74:AD:16:A1:08",
+    "ip_address": "172.27.5.212",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2401",
+    "mac_address": "C0:74:AD:16:A1:0A",
+    "ip_address": "172.27.5.1",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2314",
+    "mac_address": "C0:74:AD:16:A1:0C",
+    "ip_address": "172.27.5.7",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2404",
+    "mac_address": "C0:74:AD:16:A1:0E",
+    "ip_address": "172.27.5.8",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2403",
+    "mac_address": "C0:74:AD:16:A1:16",
+    "ip_address": "172.27.5.56",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2402",
+    "mac_address": "C0:74:AD:16:A1:18",
+    "ip_address": "172.27.5.4",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2603",
+    "mac_address": "C0:74:AD:16:A1:1C",
+    "ip_address": "172.27.5.77",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2302",
+    "mac_address": "C0:74:AD:16:A1:1E",
+    "ip_address": "172.27.5.206",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2514",
+    "mac_address": "C0:74:AD:16:A1:20",
+    "ip_address": "172.27.6.174",
+    "firmware": ""
+  },
+  {
+    "room": "2306",
+    "mac_address": "C0:74:AD:16:A1:22",
+    "ip_address": "172.27.5.216",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2305",
+    "mac_address": "C0:74:AD:16:A1:28",
+    "ip_address": "172.27.5.204",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2602",
+    "mac_address": "C0:74:AD:16:A1:2E",
+    "ip_address": "172.27.5.70",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2604",
+    "mac_address": "C0:74:AD:16:A1:3A",
+    "ip_address": "172.27.5.69",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "704",
+    "mac_address": "C0:74:AD:16:A1:3C",
+    "ip_address": "172.27.6.38",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "709",
+    "mac_address": "C0:74:AD:16:A2:36",
+    "ip_address": "172.27.6.56",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "503",
+    "mac_address": "C0:74:AD:16:A2:86",
+    "ip_address": "172.27.6.109",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2203",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2504",
+    "mac_address": "C0:74:AD:16:A2:92",
+    "ip_address": "172.27.5.3",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2506",
+    "mac_address": "C0:74:AD:16:A2:94",
+    "ip_address": "172.27.5.12",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2502",
+    "mac_address": "C0:74:AD:16:A2:9C",
+    "ip_address": "172.27.5.14",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "505",
+    "mac_address": "C0:74:AD:16:A2:A4",
+    "ip_address": "172.27.6.110",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2606",
+    "mac_address": "C0:74:AD:16:A2:A6",
+    "ip_address": "172.27.5.110",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2613",
+    "mac_address": "C0:74:AD:16:A2:A8",
+    "ip_address": "172.27.5.100",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "504",
+    "mac_address": "C0:74:AD:16:A2:AC",
+    "ip_address": "172.27.6.107",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2201",
+    "mac_address": "C0:74:AD:16:A2:B4",
+    "ip_address": "172.27.5.199",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "502",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "501",
+    "mac_address": "C0:74:AD:16:A2:BC",
+    "ip_address": "172.27.6.111",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "707",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "708",
+    "mac_address": "C0:74:AD:16:A2:D6",
+    "ip_address": "172.27.6.50",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2202",
+    "mac_address": "C0:74:AD:16:A2:E0",
+    "ip_address": "172.27.5.214",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2204",
+    "mac_address": "C0:74:AD:16:A2:E6",
+    "ip_address": "172.27.5.201",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2509",
+    "mac_address": "C0:74:AD:16:A5:08",
+    "ip_address": "172.27.6.178",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2405",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2510",
+    "mac_address": "C0:74:AD:16:A5:2C",
+    "ip_address": "172.27.5.79",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2508",
+    "mac_address": "C0:74:AD:16:A5:32",
+    "ip_address": "172.27.5.71",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2512",
+    "mac_address": "C0:74:AD:16:A5:42",
+    "ip_address": "172.27.6.177",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2105",
+    "mac_address": "C0:74:AD:16:A0:FE",
+    "ip_address": "172.27.5.173",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2106",
+    "mac_address": "C0:74:AD:16:A1:02",
+    "ip_address": "172.27.5.174",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2107",
+    "mac_address": "C0:74:AD:16:A1:04",
+    "ip_address": "172.27.5.179",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2315",
+    "mac_address": "C0:74:AD:16:A1:06",
+    "ip_address": "172.27.5.57",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2307",
+    "mac_address": "C0:74:AD:16:A1:08",
+    "ip_address": "172.27.5.212",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2401",
+    "mac_address": "C0:74:AD:16:A1:0A",
+    "ip_address": "172.27.5.1",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2314",
+    "mac_address": "C0:74:AD:16:A1:0C",
+    "ip_address": "172.27.5.7",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2404",
+    "mac_address": "C0:74:AD:16:A1:0E",
+    "ip_address": "172.27.5.8",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2403",
+    "mac_address": "C0:74:AD:16:A1:16",
+    "ip_address": "172.27.5.56",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2402",
+    "mac_address": "C0:74:AD:16:A1:18",
+    "ip_address": "172.27.5.4",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2603",
+    "mac_address": "C0:74:AD:16:A1:1C",
+    "ip_address": "172.27.5.77",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2302",
+    "mac_address": "C0:74:AD:16:A1:1E",
+    "ip_address": "172.27.5.206",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2514",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2105",
+    "mac_address": "C0:74:AD:16:A0:FE",
+    "ip_address": "172.27.5.173",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2107",
+    "mac_address": "C0:74:AD:16:A1:04",
+    "ip_address": "172.27.5.179",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2315",
+    "mac_address": "C0:74:AD:16:A1:06",
+    "ip_address": "172.27.5.57",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2307",
+    "mac_address": "C0:74:AD:16:A1:08",
+    "ip_address": "172.27.5.212",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2401",
+    "mac_address": "C0:74:AD:16:A1:0A",
+    "ip_address": "172.27.5.1",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2314",
+    "mac_address": "C0:74:AD:16:A1:0C",
+    "ip_address": "172.27.5.7",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2404",
+    "mac_address": "C0:74:AD:16:A1:0E",
+    "ip_address": "172.27.5.8",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2403",
+    "mac_address": "C0:74:AD:16:A1:16",
+    "ip_address": "172.27.5.56",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2402",
+    "mac_address": "C0:74:AD:16:A1:18",
+    "ip_address": "172.27.5.4",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2603",
+    "mac_address": "C0:74:AD:16:A1:1C",
+    "ip_address": "172.27.5.77",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2302",
+    "mac_address": "C0:74:AD:16:A1:1E",
+    "ip_address": "172.27.5.206",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2514",
+    "mac_address": "C0:74:AD:16:A1:20",
+    "ip_address": "172.27.6.174",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2306",
+    "mac_address": "C0:74:AD:16:A1:22",
+    "ip_address": "172.27.5.216",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2305",
+    "mac_address": "C0:74:AD:16:A1:28",
+    "ip_address": "172.27.5.204",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2602",
+    "mac_address": "C0:74:AD:16:A1:2E",
+    "ip_address": "172.27.5.70",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2604",
+    "mac_address": "C0:74:AD:16:A1:3A",
+    "ip_address": "172.27.5.69",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "704",
+    "mac_address": "C0:74:AD:16:A1:3C",
+    "ip_address": "172.27.6.38",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "709",
+    "mac_address": "C0:74:AD:16:A2:36",
+    "ip_address": "172.27.6.56",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "503",
+    "mac_address": "C0:74:AD:16:A2:86",
+    "ip_address": "172.27.6.109",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2203",
+    "mac_address": "C0:74:AD:16:A2:88",
+    "ip_address": "172.27.5.211",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "706",
+    "mac_address": "C0:74:AD:16:A2:8C",
+    "ip_address": "172.27.6.55",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2504",
+    "mac_address": "C0:74:AD:16:A2:92",
+    "ip_address": "172.27.5.3",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2506",
+    "mac_address": "C0:74:AD:16:A2:94",
+    "ip_address": "172.27.5.12",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2502",
+    "mac_address": "C0:74:AD:16:A2:9C",
+    "ip_address": "172.27.5.14",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "505",
+    "mac_address": "C0:74:AD:16:A2:A4",
+    "ip_address": "172.27.6.110",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2606",
+    "mac_address": "C0:74:AD:16:A2:A6",
+    "ip_address": "172.27.5.110",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2613",
+    "mac_address": "C0:74:AD:16:A2:A8",
+    "ip_address": "172.27.5.100",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "504",
+    "mac_address": "C0:74:AD:16:A2:AC",
+    "ip_address": "172.27.6.107",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2607",
+    "mac_address": "C0:74:AD:16:A2:B0",
+    "ip_address": "172.27.5.64",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2201",
+    "mac_address": "C0:74:AD:16:A2:B4",
+    "ip_address": "172.27.5.199",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "502",
+    "mac_address": "C0:74:AD:16:A2:B6",
+    "ip_address": "172.27.6.108",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "501",
+    "mac_address": "C0:74:AD:16:A2:BC",
+    "ip_address": "172.27.6.111",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "707",
+    "mac_address": "C0:74:AD:16:A2:D4",
+    "ip_address": "172.27.6.54",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "708",
+    "mac_address": "C0:74:AD:16:A2:D6",
+    "ip_address": "172.27.6.50",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2202",
+    "mac_address": "C0:74:AD:16:A2:E0",
+    "ip_address": "172.27.5.214",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2204",
+    "mac_address": "C0:74:AD:16:A2:E6",
+    "ip_address": "172.27.5.201",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2509",
+    "mac_address": "C0:74:AD:16:A5:08",
+    "ip_address": "172.27.6.178",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2405",
+    "mac_address": "C0:74:AD:16:A5:14",
+    "ip_address": "172.27.5.63",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2510",
+    "mac_address": "C0:74:AD:16:A5:2C",
+    "ip_address": "172.27.5.79",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2508",
+    "mac_address": "C0:74:AD:16:A5:32",
+    "ip_address": "172.27.5.71",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2512",
+    "mac_address": "C0:74:AD:16:A5:42",
+    "ip_address": "172.27.6.177",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2407",
+    "mac_address": "C0:74:AD:16:A5:46",
+    "ip_address": "172.27.5.62",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2406",
+    "mac_address": "C0:74:AD:16:A5:56",
+    "ip_address": "172.27.5.85",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2408",
+    "mac_address": "C0:74:AD:16:A5:5C",
+    "ip_address": "172.27.6.147",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "2410",
+    "mac_address": "C0:74:AD:16:A5:6A",
+    "ip_address": "172.27.5.86",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "611",
+    "mac_address": "C0:74:AD:16:A5:FA",
+    "ip_address": "172.27.6.9",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "609",
+    "mac_address": "C0:74:AD:16:A6:14",
+    "ip_address": "172.27.6.29",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "607",
+    "mac_address": "C0:74:AD:16:A6:28",
+    "ip_address": "172.27.6.34",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "608",
+    "mac_address": "C0:74:AD:16:A6:30",
+    "ip_address": "172.27.6.40",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "606",
+    "mac_address": "C0:74:AD:16:A6:32",
+    "ip_address": "172.27.6.36",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "610",
+    "mac_address": "C0:74:AD:16:A6:3A",
+    "ip_address": "172.27.6.37",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1012",
+    "mac_address": "C0:74:AD:16:A8:10",
+    "ip_address": "172.27.5.105",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "713",
+    "mac_address": "C0:74:AD:16:A8:16",
+    "ip_address": "172.27.6.57",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "711",
+    "mac_address": "C0:74:AD:16:A8:50",
+    "ip_address": "172.27.6.63",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "802",
+    "mac_address": "C0:74:AD:16:A8:5A",
+    "ip_address": "172.27.6.62",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1105",
+    "mac_address": "C0:74:AD:16:A8:66",
+    "ip_address": "172.27.5.67",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1407",
+    "mac_address": "C0:74:AD:16:A8:92",
+    "ip_address": "172.27.5.157",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1906",
+    "mac_address": "C0:74:AD:16:A8:E0",
+    "ip_address": "172.27.5.145",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1901",
+    "mac_address": "C0:74:AD:16:A8:FA",
+    "ip_address": "172.27.6.224",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1308",
+    "mac_address": "C0:74:AD:16:A9:08",
+    "ip_address": "172.27.6.194",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1113",
+    "mac_address": "C0:74:AD:16:A9:4A",
+    "ip_address": "172.27.5.99",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1709",
+    "mac_address": "C0:74:AD:16:A9:4C",
+    "ip_address": "172.27.6.75",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1202",
+    "mac_address": "C0:74:AD:16:A9:4E",
+    "ip_address": "172.27.5.125",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1708",
+    "mac_address": "C0:74:AD:16:A9:50",
+    "ip_address": "172.27.6.76",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1707",
+    "mac_address": "C0:74:AD:16:A9:58",
+    "ip_address": "172.27.6.78",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1706",
+    "mac_address": "C0:74:AD:16:A9:5A",
+    "ip_address": "172.27.6.74",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1501",
+    "mac_address": "C0:74:AD:16:A9:5E",
+    "ip_address": "172.27.6.214",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1203",
+    "mac_address": "C0:74:AD:16:A9:60",
+    "ip_address": "172.27.5.126",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1201",
+    "mac_address": "C0:74:AD:16:A9:6A",
+    "ip_address": "172.27.5.120",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1505",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1504",
+    "mac_address": "C0:74:AD:16:A9:6E",
+    "ip_address": "172.27.5.160",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1211",
+    "mac_address": "C0:74:AD:16:A9:78",
+    "ip_address": "172.27.5.144",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1714",
+    "mac_address": "C0:74:AD:16:A9:7C",
+    "ip_address": "172.27.5.96",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1210",
+    "mac_address": "C0:74:AD:16:A9:82",
+    "ip_address": "172.27.5.132",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "02",
+    "mac_address": "C0:74:AD:16:A9:8C",
+    "ip_address": "172.27.5.181",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1508",
+    "mac_address": "C0:74:AD:16:A9:A0",
+    "ip_address": "172.27.6.98",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1511",
+    "mac_address": "C0:74:AD:16:A9:A8",
+    "ip_address": "172.27.6.89",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1010",
+    "mac_address": "C0:74:AD:16:A9:B0",
+    "ip_address": "172.27.5.113",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1013",
+    "mac_address": "C0:74:AD:16:A9:B8",
+    "ip_address": "172.27.5.102",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1303",
+    "mac_address": "C0:74:AD:16:A9:BE",
+    "ip_address": "172.27.6.186",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1305",
+    "mac_address": "C0:74:AD:16:A9:C2",
+    "ip_address": "172.27.6.199",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1411",
+    "mac_address": "C0:74:AD:16:A9:CC",
+    "ip_address": "172.27.5.155",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1412",
+    "mac_address": "C0:74:AD:16:A9:D0",
+    "ip_address": "172.27.6.212",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1213",
+    "mac_address": "C0:74:AD:16:A9:DC",
+    "ip_address": "172.27.6.184",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1606",
+    "mac_address": "C0:74:AD:16:A9:DE",
+    "ip_address": "172.27.6.46",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1304",
+    "mac_address": "C0:74:AD:16:A9:E2",
+    "ip_address": "172.27.6.189",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1605",
+    "mac_address": "C0:74:AD:16:A9:E6",
+    "ip_address": "172.27.6.65",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1907",
+    "mac_address": "C0:74:AD:16:A9:EA",
+    "ip_address": "172.27.5.133",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1903",
+    "mac_address": "C0:74:AD:16:A9:EC",
+    "ip_address": "172.27.5.130",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1607",
+    "mac_address": "C0:74:AD:16:A9:F0",
+    "ip_address": "172.27.6.53",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2413",
+    "mac_address": "C0:74:AD:16:AA:0E",
+    "ip_address": "172.27.5.59",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2501",
+    "mac_address": "C0:74:AD:16:AA:14",
+    "ip_address": "172.27.6.162",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2412",
+    "mac_address": "C0:74:AD:16:AA:16",
+    "ip_address": "172.27.6.159",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "904",
+    "mac_address": "C0:74:AD:16:AA:18",
+    "ip_address": "172.27.5.222",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1107",
+    "mac_address": "C0:74:AD:16:AA:CE",
+    "ip_address": "172.27.5.138",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2108",
+    "mac_address": "C0:74:AD:16:AA:E6",
+    "ip_address": "172.27.5.148",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2111",
+    "mac_address": "C0:74:AD:16:AA:F6",
+    "ip_address": "172.27.5.156",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1909",
+    "mac_address": "C0:74:AD:16:AA:F8",
+    "ip_address": "172.27.5.139",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1908",
+    "mac_address": "C0:74:AD:16:AB:0E",
+    "ip_address": "172.27.6.222",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1913",
+    "mac_address": "C0:74:AD:16:AB:10",
+    "ip_address": "172.27.5.150",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1112",
+    "mac_address": "C0:74:AD:16:AB:1A",
+    "ip_address": "172.27.5.117",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1313",
+    "mac_address": "C0:74:AD:16:AB:1E",
+    "ip_address": "172.27.6.217",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1402",
+    "mac_address": "C0:74:AD:16:AB:26",
+    "ip_address": "172.27.6.205",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1403",
+    "mac_address": "C0:74:AD:16:AB:28",
+    "ip_address": "172.27.6.208",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1601",
+    "mac_address": "C0:74:AD:16:AB:2E",
+    "ip_address": "172.27.6.69",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1702",
+    "mac_address": "C0:74:AD:16:AB:38",
+    "ip_address": "172.27.5.68",
+    "firmware": "1.0.1.98"
+  },
+  {
+    "room": "1513",
+    "mac_address": "C0:74:AD:16:AB:3A",
+    "ip_address": "172.27.6.68",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1604",
+    "mac_address": "C0:74:AD:16:AB:3E",
+    "ip_address": "172.27.6.70",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1703",
+    "mac_address": "C0:74:AD:16:AB:40",
+    "ip_address": "172.27.5.66",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1611",
+    "mac_address": "C0:74:AD:16:AB:42",
+    "ip_address": "172.27.5.74",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1512",
+    "mac_address": "C0:74:AD:16:AB:44",
+    "ip_address": "172.27.6.73",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1603",
+    "mac_address": "C0:74:AD:16:AB:4E",
+    "ip_address": "172.27.6.71",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2006",
+    "mac_address": "C0:74:AD:16:AB:56",
+    "ip_address": "172.27.5.137",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2009",
+    "mac_address": "C0:74:AD:16:AB:58",
+    "ip_address": "172.27.5.128",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2008",
+    "mac_address": "C0:74:AD:16:AB:5A",
+    "ip_address": "172.27.5.146",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "00",
+    "mac_address": "C0:74:AD:16:AB:80",
+    "ip_address": "172.27.5.198",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1914",
+    "mac_address": "C0:74:AD:16:AB:86",
+    "ip_address": "172.27.5.122",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1915",
+    "mac_address": "C0:74:AD:16:AB:88",
+    "ip_address": "172.27.5.151",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2002",
+    "mac_address": "C0:74:AD:16:AB:90",
+    "ip_address": "172.27.5.114",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2013",
+    "mac_address": "C0:74:AD:16:AB:B6",
+    "ip_address": "172.27.5.254",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2101",
+    "mac_address": "C0:74:AD:16:AB:C0",
+    "ip_address": "172.27.6.1",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2015",
+    "mac_address": "C0:74:AD:16:AB:C8",
+    "ip_address": "172.27.6.6",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2012",
+    "mac_address": "C0:74:AD:16:AB:D2",
+    "ip_address": "172.27.6.5",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "2014",
+    "mac_address": "",
+    "ip_address": "",
+    "firmware": "1.0.1.89"
+  },
+  {
+    "room": "1302",
+    "mac_address": "C0:74:AD:16:AB:F2",
+    "ip_address": "172.27.5.186",
+    "firmware": "1.0.1.89"
+  }
+]
