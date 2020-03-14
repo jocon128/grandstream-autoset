@@ -35,13 +35,16 @@ const action = async ip => {
       resolve();
     } catch (error) {
       console.log(error);
+      resolve();
     }
   });
 };
 
 // run loop
 (async () => {
-  for (const item of ips) {
+  const total = ips.length;
+  for (const [index, item] of ips.entries()) {
+    console.log(`${index + 1} of ${total}`);
     await action(item);
   }
 })();
